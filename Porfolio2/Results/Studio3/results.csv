@@ -1,0 +1,5 @@
+Model,Train-Test Split Accuracy,Cross-Validation Accuracy
+Original Features,0.9186013184293493,0.9129 ± 0.0072
+With Hyperparameter Tuning,0.9211808541129264,0.9111 ± 0.0100
+Feature Selection + Hyperparameter Tuning,0.9180280882774434,0.9106 ± 0.0124
+PCA + Hyperparameter Tuning,0.8925193465176269,0.8902 ± 0.0094
